@@ -1,7 +1,8 @@
 # Zanshin
 Final Project with the GD Students @ VFS.
 
-  Zanshin is a First Person Multiplayer Arena game, where two teams of three players fight against each other using bows and specialized arrows.
+  Zanshin is a First Person Multiplayer Arena game, where two teams of three players fight against each other using bows and 
+  specialized arrows.
   
   Zanshin was created by 6 students with the following roles:
   
