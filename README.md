@@ -1,21 +1,21 @@
 # Zanshin
-Final Project with the GD Students @ VFS.
+## Final Project with the GD Students @ VFS.
 
 Zanshin is a First Person Multiplayer Arena game, where two teams of three players fight against each other using bows and 
 specialized arrows.
   
 Zanshin was created by 6 students with the following roles:
   
-Felipe Carmona - Project Manager, UI Programmer, UI Designer.
+1. Felipe Carmona - Project Manager, UI Programmer, UI Designer.
 
-Ulises Zamora - Technical Artist, 3D Modeler.
+2. Ulises Zamora - Technical Artist, 3D Modeler.
 
-Sergio Rodrigues - Gameplay Programmer.
+3. Sergio Rodrigues - Gameplay Programmer.
 
-Matthew Sun - Artist.
+4. Matthew Sun - Artist.
 
-Shane Nielsen - Level Designer, 3D Modeler.
+5. Shane Nielsen - Level Designer, 3D Modeler.
 
-Juan Cachafeiro - Network Programmer.
+6. Juan Cachafeiro - Network Programmer.
   
 
