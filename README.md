@@ -1,3 +1,5 @@
+// Copyright 2016 Juan Cachafeiro Saenz. All Rights Reserved.
+
 # Zanshin
 ## Final Project with the GD Students @ VFS.
 
